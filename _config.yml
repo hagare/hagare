@@ -1,10 +1,10 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
+title: Super Awesome 
+description: This is a teach to learn site with super awesome tutorials, tech, and diy.
+author: Dr. E, Ph.D.
 github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+about: I'm educator, engineer, and entrepreneur.
+disqus_shortname: dr-es-tech-blog
+google_analytics: 
 
 enableTags: true
 tagarray: []
@@ -24,11 +24,11 @@ social:
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/hagare/super-awesome"
 
 share:
   twitter_username: github.io
-  fb_appid: 1749788565247320
+  fb_appid: 
 
 urls:
     - text: About Me
@@ -37,8 +37,10 @@ urls:
       url: /projects/
     - text: XML Feed
       url: /feed.xml
+    - text: Archive
+      url: /archive/
 
-url: "https://agusmakmun.github.io"
+url: "https://hagare.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
