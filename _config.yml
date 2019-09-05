@@ -1,6 +1,6 @@
 title: Super Awesome 
 description: This is a teach to learn site with super awesome tutorials, tech, and diy.
-author: Dr. E, Ph.D.
+author: Super Awesome <br \> with Dr. E, PhD.
 github: https://github.com/hagare
 about: I'm educator, engineer, and entrepreneur.
 disqus_shortname: dr-es-tech-blog
@@ -31,12 +31,12 @@ share:
   fb_appid: 
 
 urls:
-    - text: About Me
+    - text: About
       url: /about/
-    - text: Archive
+    - text: Posts Archive
       url: /archive/
-    # - text: My Projects
-    #  url: /projects/
+    - text: Projects
+      url: /projects/
     - text: XML Feed
       url: /feed.xml
 

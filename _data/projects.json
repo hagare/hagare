@@ -8,11 +8,12 @@
 		"tags": ["Angular JS","API"]
 	},
 	{
+		"slug": "project-1",
 		"name": "Cool project 2",
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "May 2014",
-		"tags": ["Python","Django"]
+		"tags": ["Python","Django", "Markdown"]
 	},
 	{
 		"name": "Cool project 3",
