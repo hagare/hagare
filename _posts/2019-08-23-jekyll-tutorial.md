@@ -27,8 +27,7 @@ ruby -v
 If you don't have Ruby, you'll need to install it first. You can find detailed instructions to install Ruby here: [Ruby installation instructions](https://www.ruby-lang.org/en/documentation/installation/){:target="_blank"}. As of writing this post you need at least version 2.6 to install Jekyll properly. You may need to use a ruby version manager such as [rbenv](https://github.com/rbenv/rbenv){:target="_blank"}.
 
 - Bundler and Jekyll <br />
-Once you have Ruby, you need to install *Bundler* and *Jekyll*.
-
+Once you have Ruby, you need to install *Bundler* and *Jekyll*. 
 ``` bash
 gem install bundler jekyll
 ```

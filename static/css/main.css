@@ -1,5 +1,5 @@
 body {
-  font-family: "B612","Alegreya", "Roboto Condensed", Arial, sans-serif; /* Updated font-family to helvetica */
+  font-family: 'Lato', 'Montserrat', 'Roboto', "Roboto Condensed", Arial, sans-serif; /* Updated font-family to helvetica */
   background: url("/static/img/subtle_dots.png");
   line-height: 1.5em;
   font-weight: 300;
@@ -16,7 +16,7 @@ hr {
 span.time, span.categories {
   color: #6969ff; /* #ADADAD;*/
   margin-bottom: 5px;
-  font-size: 11px;
+  font-size: 12px;
 }
 h1, h2, h3 {
   color:#69b4ff; /*#696969;*/
@@ -62,8 +62,8 @@ div.content pre {
   padding: 10px;
   color: #000; /*#FFF;*/
   overflow-x: auto;
-  font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
-  font-size: 14px;
+  font-family: 'Cairo', Menlo, Monaco, Consolas, 'Courier New', monospace;
+  font-size: 16px;
   border: none;
 }
 div.content .highlight {
@@ -76,14 +76,26 @@ footer {
   margin-top: 10px;
   margin-bottom: 3em;
   padding-top: 10px;
-  color: #C2C2C2;
-  font-size: 12px;
+  color: #b469ff; /*#C2C2C2;*/
+  font-size: 14px;
   bottom: 0;
   padding-bottom: 10px;
 }
 
 /* Left column */
+/* added flex to stretch color*/
+div.container{
+  display: flex;
+  }
+div.fixed-condition{
+    background-color: #ff8e1d; 
+}
+div.sidebar-nav {
+    background-color: #ff8e1d; 
+
+}
 div.col-sm-3 {
+/*  background-color: #ff8e1d; */
   margin-top: 100px;
   font-size: 14px; /* 11px; */
   color: #666;
