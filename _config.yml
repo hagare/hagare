@@ -35,8 +35,8 @@ urls:
       url: /about/
     - text: Posts Archive
       url: /archive/
-    - text: Projects
-      url: /projects/
+    # - text: Projects # Turn off Projects link in menu
+    #  url: /projects/
     - text: XML Feed
       url: /feed.xml
 
