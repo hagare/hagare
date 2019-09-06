@@ -40,8 +40,8 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://hagare.github.io"
-baseurl: "/hagare"
+url: "https://hagare.github.io/hagare"
+baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
