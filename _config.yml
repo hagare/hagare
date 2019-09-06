@@ -12,7 +12,7 @@ tagarray: []
 
 collections:
   project:
-    output: false 
+    output: true 
     permalink: /project/:path/
 
 social:

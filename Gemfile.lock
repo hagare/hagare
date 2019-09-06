@@ -249,6 +249,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-gist
+  jekyll-paginate
   wdm (~> 0.1.1)
 
 BUNDLED WITH
